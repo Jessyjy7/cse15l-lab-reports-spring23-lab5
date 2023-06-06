@@ -38,9 +38,9 @@ Me: I tried the command but I got a weird result again. Here's the result and al
 ```
 ![Image](c2.png)
 ![Image](b1.png)
-![Image](b2.png)
-![Image](b3.png)
 ![Image](b4.png)
+![Image](b3.png)
+![Image](b2.png)
 ![Image](words.png)
 
 * The "TA" read all the screenshots and found the problem:
