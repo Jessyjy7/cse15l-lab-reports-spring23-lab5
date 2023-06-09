@@ -39,8 +39,8 @@ Me: I tried the command but I got a weird result again. Here's the result and al
 ![Image](bash2.png)
 ![Image](b1.png)
 ![Image](b4.png)
-![Image](b3.png)
 ![Image](b2.png)
+![Image](b3.png)
 ![Image](bash.png)
 ![Image](words.png)
 
